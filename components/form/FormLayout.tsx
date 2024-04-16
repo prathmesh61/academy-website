@@ -35,7 +35,7 @@ const FormLayout = () => {
 
       <button
         type="submit"
-        className="max-w-[400px] bg-purple-400 text-white p-2 rounded-lg flex items-center justify-center gap-2 text-center"
+        className="max-w-[400px] bg-purple-600 text-white p-2 rounded-lg flex items-center justify-center gap-2 text-center"
       >
         <Send size={25} /> Send
       </button>
